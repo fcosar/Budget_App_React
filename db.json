@@ -1,0 +1,62 @@
+{
+  "expenses": [
+    {
+      "price": "800",
+      "place": "Adidas",
+      "title": "Ayakkabı",
+      "description": "Rahat",
+      "categoryId": "2",
+      "date": "2023-02-27",
+      "id": "1677502617862"
+    },
+    {
+      "price": "50000",
+      "place": "Media Market",
+      "title": "Telefon",
+      "description": "Garantiyi aktif hala getir",
+      "categoryId": "4",
+      "date": "2023-02-27",
+      "id": "1677502698229"
+    },
+    {
+      "price": "100",
+      "place": "D&R",
+      "title": "Kitap",
+      "description": "Değişim fişi var",
+      "categoryId": "3",
+      "date": "2023-03-01",
+      "id": "1677703482623"
+    },
+    {
+      "price": "150",
+      "place": "D&R",
+      "title": "Satranç Takımı",
+      "description": "Ahşap Takım",
+      "categoryId": "1676667401884",
+      "date": "2023-03-03",
+      "id": "1677788335696"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Market"
+    },
+    {
+      "id": "2",
+      "name": "Giyim"
+    },
+    {
+      "id": "3",
+      "name": "Eğitim"
+    },
+    {
+      "id": "4",
+      "name": "Elektronik"
+    },
+    {
+      "id": "1676667401884",
+      "name": "Eğlence"
+    }
+  ]
+}

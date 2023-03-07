@@ -1,0 +1,37 @@
+.headerContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0px;
+    color: rgb(39, 47, 48);
+    
+}
+.headerWrapper{
+    position: relative;
+    height: 100px;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: #FEF5ED;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.4);
+}
+.logoWrapper{
+    margin-right: 20px;
+    border-radius: 5px
+}
+.img{
+    border-radius: 50px;
+}
+.headerIconWrapper{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left:20px;
+    cursor: pointer;
+}
+.headerIconWrapper img{
+    width: 100%;
+}
